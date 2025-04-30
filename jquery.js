@@ -11,7 +11,7 @@ $("#click-me").click(function () {
 	case 1:
 	console.log("GET LAID NOW")
 	$("#click-me").html
-	location.href='https://aoemgd.goyouniight.com/?utm_source=da57dc555e50572d&ban=banner&j5=1&j6=1&s1=198903&s2=2125002&s3=Master&s5=MasterX2&click_id=Xv69 ';
+	location.href='https://aoemgd.unfamiiliardate.net/?utm_source=da57dc555e50572d&ban=other&j5=1&j6=1&s1=198903&s2=2117065&s3=opps&s5=Opps&click_id=lol-Opps';
 	break
 	case 2:
 	console.log("GET LAID NOW")
@@ -21,17 +21,17 @@ $("#click-me").click(function () {
 	case 3:
 	console.log("GET LAID NOW")
 	$("#click-me").html
-	location.href='https://wq7prrr.girlsthegirls-now.com/c36px4w?m=1&s1=Come2&cid=XX';
+	location.href='https://paysale.g2afse.com/click?pid=23710&offer_id=7852';
 	break
 	case 4:
 	console.log("GET LAID NOW")
 	$("#click-me").html
-	location.href='https://www.profitableratecpm.com/anam8c5hm?key=36aec5eaaea5c762c5d96edd7764cc58';
+	location.href='https://paysale.g2afse.com/click?pid=23710&offer_id=10803';
 	break
 	default:
 	console.log("GET LAID NOW")
 	$("#click-me").html
-    location.href='https://aoemgd.goyouniight.com/?utm_source=da57dc555e50572d&ban=banner&j5=1&j6=1&s1=198903&s2=2125002&s3=Master&s5=MasterX2&click_id=Xv69 ';
+    location.href='https://aoemgd.unfamiiliardate.net/?utm_source=da57dc555e50572d&ban=other&j5=1&j6=1&s1=198903&s2=2117065&s3=opps&s5=Opps&click_id=lol-Opps';
 	break
 }
 })
